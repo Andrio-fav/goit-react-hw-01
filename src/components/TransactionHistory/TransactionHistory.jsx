@@ -1,3 +1,4 @@
+import CSS from './TransactionHistory.module.css';
 export default function TransactionHistory({ history }) {
     console.log(history);
 
